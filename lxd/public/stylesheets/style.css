@@ -1,0 +1,136 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+.wrap{
+	width: 100%;
+	height: 678px;
+	background: #FFF;
+	overflow: hidden;
+}
+.ul1{
+	width:500px;
+	height: 30px;
+	float: right;
+}
+.ul1 li{
+	width: 60px;
+	height: 30px;
+	line-height: 30px;
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 500
+}
+.ul1 li a{
+	color: #000;
+}
+.ul1 li a:hover{
+	color: #00c;
+}
+.tu{
+	width: 270px;
+	height: 129px;
+	margin: 50px auto;
+}
+.tu img{
+	width: 270px;
+	height: 129px;
+}
+.kuang{
+	width: 100%;
+	height: 36px;
+}
+.kuang input{
+	width: 540px;
+	height: 36px;
+	margin-left:360px; 
+}
+.kuang button{
+	width: 100px;
+	height: 36px;
+	background: #3385ff;
+	color:#FFF;
+	outline: none;
+	border: none;
+}
+.kuang button:hover{
+	background: #2d78f4;
+}
+.form{
+	width: 100%;
+	height: 191px;
+}
+.footer{
+	width: 100%;
+	height:300px;
+}
+.ewm{
+	width:60px;
+	height: 90px;
+	margin:0 auto;
+}
+.sj{
+	width: 60px;
+	height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-weight: bold;
+}
+.nav{
+	width: 100%;
+	height: 30px;
+	text-align: center;
+}
+.ul2{
+	width: 280px;
+	height: 30px;
+	margin:0 auto;
+}
+.list1{
+	width: 84px;
+	height: 14px;
+	font-size: 12px;
+	text-align: center;
+	float: left;
+}
+.list2{
+	width: 50px;
+	height: 14px;
+	font-size: 12px;
+	text-align: center;
+	float: left;
+	margin-left: 5px;
+}
+.list3{
+	width: 80px;
+	height: 14px;
+	font-size: 12px;
+	text-align: center;
+	float: left;
+	margin-left: 5px;
+}
+.list4{
+	width: 50px;
+	height: 14px;
+	font-size: 12px;
+	text-align: center;
+	float: left;
+	margin-left: 5px;
+}
+.list1 a,.list2 a,.list3 a,.list4 a{
+	color: #999
+}
+.list1 a:hover,.list2 a:hover,.list3 a:hover,.list4 a:hover{
+	color: #00c
+}
+p{
+	text-align: center;
+	margin-bottom: 15px;
+}
+p a:link{
+  color: #999;
+  margin-left: 15px;
+  text-decoration: underline;
+}
